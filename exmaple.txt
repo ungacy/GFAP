@@ -1,0 +1,175 @@
+XP_049343432.1	GO:0016021	integral component of membrane	cellular_component
+XP_049344179.1	GO:0007186	G protein-coupled receptor signaling pathway	biological_process
+XP_049344443.1	GO:0043565	sequence-specific DNA binding	molecular_function
+XP_049342561.1	GO:0006468	protein phosphorylation	biological_process
+XP_049342979.1	GO:0005524	ATP binding	molecular_function
+XP_049342999.1	GO:0003677	DNA binding	molecular_function
+XP_049344393.1	GO:0016021	integral component of membrane	cellular_component
+XP_049343140.1	GO:0003676	nucleic acid binding	molecular_function
+XP_049343815.1	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	molecular_function
+XP_049342561.1	GO:0004672	protein kinase activity	molecular_function
+XP_049343067.1	GO:0005840	ribosome	cellular_component
+XP_049343680.1	GO:0046983	protein dimerization activity	molecular_function
+XP_049343139.1	GO:0016192	vesicle-mediated transport	biological_process
+XP_049343667.1	GO:0003824	catalytic activity	molecular_function
+XP_049343547.1	GO:0008097	5S rRNA binding	molecular_function
+XP_049344095.1	GO:0009058	biosynthetic process	biological_process
+XP_049343173.1	GO:0003724	RNA helicase activity	molecular_function
+XP_049343825.1	GO:0006412	translation	biological_process
+XP_049344573.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049343210.1	GO:0005840	ribosome	cellular_component
+XP_049343911.1	GO:0005515	protein binding	molecular_function
+XP_049342522.1	GO:0005840	ribosome	cellular_component
+XP_049344177.1	GO:0007186	G protein-coupled receptor signaling pathway	biological_process
+XP_049343178.1	GO:0016887	ATPase activity	molecular_function
+XP_049342559.1	GO:0006468	protein phosphorylation	biological_process
+XP_049343078.1	GO:0005524	ATP binding	molecular_function
+XP_049343077.1	GO:0031625	ubiquitin protein ligase binding	molecular_function
+XP_049343081.1	GO:0005515	protein binding	molecular_function
+XP_049344396.1	GO:0006412	translation	biological_process
+XP_049343082.1	GO:0005515	protein binding	molecular_function
+XP_049342979.1	GO:0016887	ATPase activity	molecular_function
+XP_049343556.1	GO:0009094	L-phenylalanine biosynthetic process	biological_process
+XP_049343733.1	GO:0020037	heme binding	molecular_function
+XP_049342560.1	GO:0006468	protein phosphorylation	biological_process
+XP_049342860.1	GO:0006412	translation	biological_process
+XP_049343071.1	GO:0005840	ribosome	cellular_component
+XP_049343679.1	GO:0006412	translation	biological_process
+XP_049344100.1	GO:0055085	transmembrane transport	biological_process
+XP_049343678.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049344395.1	GO:0006412	translation	biological_process
+XP_049342971.1	GO:0006412	translation	biological_process
+XP_049344112.1	GO:0005525	GTP binding	molecular_function
+XP_049343178.1	GO:0005524	ATP binding	molecular_function
+XP_049344114.1	GO:0003924	GTPase activity	molecular_function
+XP_049342536.1	GO:0003924	GTPase activity	molecular_function
+XP_049344467.1	GO:0005524	ATP binding	molecular_function
+XP_049343510.1	GO:0005840	ribosome	cellular_component
+XP_049344393.1	GO:0046923	ER retention sequence binding	molecular_function
+XP_049344177.1	GO:0031683	G-protein beta/gamma-subunit complex binding	molecular_function
+XP_049343510.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049343208.1	GO:0003824	catalytic activity	molecular_function
+XP_049343668.1	GO:0003824	catalytic activity	molecular_function
+XP_049343630.1	GO:0000077	DNA damage checkpoint	biological_process
+XP_049342758.1	GO:0003871	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	molecular_function
+XP_049344510.1	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function
+XP_049344454.1	GO:0051287	NAD binding	molecular_function
+XP_049344132.1	GO:0005840	ribosome	cellular_component
+XP_049342673.1	GO:0016887	ATPase activity	molecular_function
+XP_049342971.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049343150.1	GO:0006412	translation	biological_process
+XP_049343300.1	GO:0000413	protein peptidyl-prolyl isomerization	biological_process
+XP_049343149.1	GO:0006412	translation	biological_process
+XP_049343774.1	GO:0008716	D-alanine-D-alanine ligase activity	molecular_function
+XP_049344455.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049343437.1	GO:0003677	DNA binding	molecular_function
+XP_049343600.1	GO:0005525	GTP binding	molecular_function
+XP_049343008.1	GO:0003677	DNA binding	molecular_function
+XP_049344178.1	GO:0031683	G-protein beta/gamma-subunit complex binding	molecular_function
+XP_049342763.1	GO:0016579	protein deubiquitination	biological_process
+XP_049342760.1	GO:0005515	protein binding	molecular_function
+XP_049344168.1	GO:0003700	DNA-binding transcription factor activity	molecular_function
+XP_049344675.1	GO:0003924	GTPase activity	molecular_function
+XP_049343329.1	GO:0046983	protein dimerization activity	molecular_function
+XP_049343199.1	GO:0003677	DNA binding	molecular_function
+XP_049344606.1	GO:0006694	steroid biosynthetic process	biological_process
+XP_049344408.1	GO:0016887	ATPase activity	molecular_function
+XP_049342829.1	GO:0051920	peroxiredoxin activity	molecular_function
+XP_049343068.1	GO:0019843	rRNA binding	molecular_function
+XP_049342768.1	GO:0005525	GTP binding	molecular_function
+XP_049343071.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049343200.1	GO:0003677	DNA binding	molecular_function
+XP_049344392.1	GO:0016192	vesicle-mediated transport	biological_process
+XP_049343078.1	GO:0016887	ATPase activity	molecular_function
+XP_049342999.1	GO:0006355	regulation of transcription, DNA-templated	biological_process
+XP_049343432.1	GO:0016192	vesicle-mediated transport	biological_process
+XP_049343000.1	GO:0015267	channel activity	molecular_function
+XP_049343058.1	GO:0003824	catalytic activity	molecular_function
+XP_049344392.1	GO:0016021	integral component of membrane	cellular_component
+XP_049343461.1	GO:0003677	DNA binding	molecular_function
+XP_049343081.1	GO:0016787	hydrolase activity	molecular_function
+XP_049344095.1	GO:0016779	nucleotidyltransferase activity	molecular_function
+XP_049343354.1	GO:0006468	protein phosphorylation	biological_process
+XP_049344364.1	GO:0006355	regulation of transcription, DNA-templated	biological_process
+XP_049344100.1	GO:0016020	membrane	cellular_component
+XP_049343788.1	GO:0003677	DNA binding	molecular_function
+XP_049344132.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049342870.1	GO:0005509	calcium ion binding	molecular_function
+XP_049343149.1	GO:0005840	ribosome	cellular_component
+XP_049344156.1	GO:0016192	vesicle-mediated transport	biological_process
+XP_049343300.1	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	molecular_function
+XP_049343567.1	GO:0008237	metallopeptidase activity	molecular_function
+XP_049342758.1	GO:0008652	cellular amino acid biosynthetic process	biological_process
+XP_049343070.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049342958.1	GO:0003924	GTPase activity	molecular_function
+XP_049343202.1	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	molecular_function
+XP_049344453.1	GO:0051287	NAD binding	molecular_function
+XP_049343541.1	GO:0008270	zinc ion binding	molecular_function
+XP_049343192.1	GO:0016020	membrane	cellular_component
+XP_049344453.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049344100.1	GO:0015267	channel activity	molecular_function
+XP_049343726.1	GO:0020037	heme binding	molecular_function
+XP_049343616.1	GO:0016787	hydrolase activity	molecular_function
+XP_049343068.1	GO:0005840	ribosome	cellular_component
+XP_049343787.1	GO:0003677	DNA binding	molecular_function
+XP_049343173.1	GO:0005524	ATP binding	molecular_function
+XP_049343067.1	GO:0019843	rRNA binding	molecular_function
+XP_049343148.1	GO:0006412	translation	biological_process
+XP_049343082.1	GO:0016787	hydrolase activity	molecular_function
+XP_049343948.1	GO:0003747	translation release factor activity	molecular_function
+XP_049343034.1	GO:0005515	protein binding	molecular_function
+XP_049344156.1	GO:0006886	intracellular protein transport	biological_process
+XP_049344674.1	GO:0003924	GTPase activity	molecular_function
+XP_049343786.1	GO:0004672	protein kinase activity	molecular_function
+XP_049343080.1	GO:0005524	ATP binding	molecular_function
+XP_049344440.1	GO:0005840	ribosome	cellular_component
+XP_049342550.1	GO:0017025	TBP-class protein binding	molecular_function
+XP_049342869.1	GO:0005509	calcium ion binding	molecular_function
+XP_049344674.1	GO:0031683	G-protein beta/gamma-subunit complex binding	molecular_function
+XP_049344178.1	GO:0007186	G protein-coupled receptor signaling pathway	biological_process
+XP_049343510.1	GO:0006412	translation	biological_process
+XP_049342488.1	GO:0005509	calcium ion binding	molecular_function
+XP_049343070.1	GO:0006412	translation	biological_process
+XP_049344408.1	GO:0051082	unfolded protein binding	molecular_function
+XP_049343148.1	GO:0005840	ribosome	cellular_component
+XP_049343786.1	GO:0005524	ATP binding	molecular_function
+XP_049343659.1	GO:0006355	regulation of transcription, DNA-templated	biological_process
+XP_049343629.1	GO:0005525	GTP binding	molecular_function
+XP_049342971.1	GO:0005840	ribosome	cellular_component
+XP_049344156.1	GO:0005198	structural molecule activity	molecular_function
+XP_049343221.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049344467.1	GO:0016887	ATPase activity	molecular_function
+XP_049343758.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049343597.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049344440.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049344179.1	GO:0031683	G-protein beta/gamma-subunit complex binding	molecular_function
+XP_049343678.1	GO:0005840	ribosome	cellular_component
+XP_049343786.1	GO:0006468	protein phosphorylation	biological_process
+XP_049343150.1	GO:0005840	ribosome	cellular_component
+XP_049344148.1	GO:0003700	DNA-binding transcription factor activity	molecular_function
+XP_049344510.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049342482.1	GO:0003924	GTPase activity	molecular_function
+XP_049342697.1	GO:0003677	DNA binding	molecular_function
+XP_049344510.1	GO:0016491	oxidoreductase activity	molecular_function
+XP_049342860.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049344675.1	GO:0005525	GTP binding	molecular_function
+XP_049344454.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049342732.1	GO:0004332	fructose-bisphosphate aldolase activity	molecular_function
+XP_049342904.1	GO:0046983	protein dimerization activity	molecular_function
+XP_049343173.1	GO:0006281	DNA repair	biological_process
+XP_049343466.1	GO:0000287	magnesium ion binding	molecular_function
+XP_049343598.1	GO:0055114	oxidation-reduction process	biological_process
+XP_049344399.1	GO:0008080	N-acetyltransferase activity	molecular_function
+XP_049344396.1	GO:0003735	structural constituent of ribosome	molecular_function
+XP_049344675.1	GO:0031683	G-protein beta/gamma-subunit complex binding	molecular_function
+XP_049343659.1	GO:0003677	DNA binding	molecular_function
+XP_049343354.1	GO:0004672	protein kinase activity	molecular_function
+XP_049344674.1	GO:0005525	GTP binding	molecular_function
+XP_049343600.1	GO:0007186	G protein-coupled receptor signaling pathway	biological_process
+XP_049342489.1	GO:0005509	calcium ion binding	molecular_function
+XP_049343080.1	GO:0016887	ATPase activity	molecular_function
+XP_049344455.1	GO:0051287	NAD binding	molecular_function
+XP_049342776.1	GO:0005525	GTP binding	molecular_function
+XP_049344368.1	GO:0006633	fatty acid biosynthetic process	biological_process
+XP_049344115.1	GO:0003924	GTPase activity	molecular_function
+XP_049343842.1	GO:0003924	GTPase activity	molecular_function
